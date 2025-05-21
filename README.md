@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osmanthuspeace
 - 👀 I’m interested in progarming
-- 🌱 I’m currently learning some backend language
+- 🌱 I’m currently learning some frontend technology
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me 3139714892@qq.com
 
